@@ -1,4 +1,4 @@
-# Data-Analysis-Chapter-2
+#     excel-sales-performance-analysis
 My Sales — SQL Data Analysis Project
 
 📌 Project Overview
